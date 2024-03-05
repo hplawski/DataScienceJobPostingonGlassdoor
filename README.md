@@ -1,4 +1,4 @@
-# DataScienceJobPostingonGlassdoor
+# Data Science Job Posting on Glassdoor
 This is a dataset of data science job posts in Glassdoor. <br>
 Data cleaning and EDA with PostgreSQL are utilized in this project.  <br>
 ➮ data collection <br>
